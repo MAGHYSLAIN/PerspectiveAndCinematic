@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/VoxelKiller/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Documents/Unreal Projects/VoxelKiller/Content/Blueprint/BP_FPS_Perspective.uasset",
+				"C:/Users/User/Documents/Unreal Projects/VoxelKiller/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LC/9YXAWHV5NVN2GKUHIMPO1X.uasset",
+				"C:/Users/User/Documents/Unreal Projects/VoxelKiller/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/User/Documents/Unreal Projects/VoxelKiller/Content/Blueprint/Bp_TargetTrigger.uasset"
+			]
+		}
+	]
+}
