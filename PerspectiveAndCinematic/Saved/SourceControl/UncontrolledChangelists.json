@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/SAND_Seasons.umap"
+			]
+		}
+	]
+}
