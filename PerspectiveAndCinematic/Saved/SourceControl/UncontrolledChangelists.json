@@ -6,7 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/SAND_Seasons.umap"
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/SAND_Seasons.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/sample_scene_a_autumn.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/sample_scene_a_summer.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/sample_scene_a_winter.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/sample_scene_a_winter_snow.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/sample_scene_a_winter_snowfall.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/Automne.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/1_Winter.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/3_Ete.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/1_Hiver.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/4_Automne.umap",
+				"C:/Users/SAND_L_01/Documents/GitHub/PerspectiveAndCinematic/PerspectiveAndCinematic/Content/Maps/2_Printemps.umap"
 			]
 		}
 	]
